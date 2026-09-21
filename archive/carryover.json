@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-20T21:47:24.473952+00:00",
-  "updated_date": "20260920",
+  "generated_at": "2026-09-21T22:31:04.094833+00:00",
+  "updated_date": "20260921",
   "carryover_days": 9,
   "tag_states": {
     "ts": {
@@ -59,7 +59,7 @@
       "items": []
     },
     "AQ-forecast": {
-      "updated_date": "20260920",
+      "updated_date": "20260921",
       "carryover_days": 9,
       "items": []
     }
